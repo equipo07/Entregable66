@@ -1172,7 +1172,7 @@ img {
 }
 
 .cid-sdjS0LX3QQ {
-@sliderId: "sdpKJGPmUv";
+@sliderId: "sdBKMk5En4";
 @fullWidth: false;
 @carouselHeight: 7;
 @paddingTop: 1;
@@ -1359,8 +1359,8 @@ background-color: @bgColor;
 
 .cid-sdp6DmG36O {
 
-padding-top: (@paddingTop * 100px);
-padding-bottom: (@paddingBottom * 100px);
+padding-top: (@paddingTop * 20px);
+padding-bottom: (@paddingBottom * 20px);
 background-color: @bgColor;
 .mbr-section {
   text-align: center;
@@ -1368,11 +1368,11 @@ background-color: @bgColor;
 }
 }
 
-.cid-sdpg36XqUi {
+.cid-sdqyJqUX72 {
 @fullWidth: false;
-@paddingTop: 1;
+@paddingTop: 2;
 @paddingBottom: 3;
-@textWidth: 10;
+@textWidth: 8;
 @showTitle: false;
 @showSubtitle: false;
 @showDescription: false;
